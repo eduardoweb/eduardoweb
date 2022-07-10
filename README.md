@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+
+
+## 🚀 About Me
+I am a full-stack software engineer. I love programming, speaking and traveling. I am also Pursuing my AWS Certified Cloud Practitioner & Solutions Architect - Associate and will graduate in mid-2022.
+
+
+
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 <!--
 **eduardoweb/eduardoweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
