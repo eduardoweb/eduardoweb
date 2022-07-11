@@ -1,3 +1,4 @@
+
 ## Hi there 👋
 
 
@@ -8,7 +9,10 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 Talking about Personal Stuffs:
 
-- 👨‍💻 I’m currently working on something cool;
+<table>
+     <tr>
+          <td>
+ - 👨‍💻 I’m currently working on something cool; 
 
 - 🥇 I´m de CEO of www.lanakea.com
 
@@ -19,12 +23,21 @@ Talking about Personal Stuffs:
      - Machine Learning
      - Smart Contracts and Blockchain
      - Ethical Hacking
-     
-- 💻 Ask me about anything, I am happy to help; 
+
+- 💻 Ask me about anything, I am happy to help;  
+          </td>
+          <td>
+![image](https://user-images.githubusercontent.com/9677961/178169897-88fe307c-209f-4140-afc4-2e7050ed774f.png)
+          </td>
+    <tr>
+ </table>
 
 📚 I also love reading books on financial literacy and trading . My favorite ones are "La Psicología del Trading" by Brett Steenbarger and "Comprender los productos derivados" by Oscar Elvira both in the genre of financial literacy.
 
 ✈️ I love traveling too. I was Mountain Guide in Venezuela and arrive.
+
+
+
 
 ## 🛠️ Skills
 
