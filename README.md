@@ -39,6 +39,7 @@ Languages and Technologies
 ![github](https://img.shields.io/badge/Php-blueviolet?style=for-the-badge&logo=Php&logoColor=white)
 ![github](https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=Go&logoColor=white)
 ![github](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white)
+![github](https://img.shields.io/badge/Redux-blue?style=for-the-badge&logo=Redux&logoColor=white)
 ![github](https://img.shields.io/badge/Bootstrap-blueviolet?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white)
 ![github](https://img.shields.io/badge/Aws-critical?style=for-the-badge&logo=Aws&logoColor=white)
@@ -50,6 +51,8 @@ Languages and Technologies
 ![github](https://img.shields.io/badge/.Net-blueviolet?style=for-the-badge&logo=.Net&logoColor=white)
 ![github](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=Solidity&logoColor=white)
 ![github](https://img.shields.io/badge/Blockchain-yellowfreen?style=for-the-badge&logo=Blockchain&logoColor=white)
+![github](https://img.shields.io/badge/Nodejs-000000?style=for-the-badge&logo=Nodejs&logoColor=white)
+![github](https://img.shields.io/badge/Mongodb-yellowfreen?style=for-the-badge&logo=Mongodb&logoColor=white)
 
 <!--
 **eduardoweb/eduardoweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
