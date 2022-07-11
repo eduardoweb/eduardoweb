@@ -10,6 +10,10 @@ Talking about Personal Stuffs:
 
 - 👨‍💻 I’m currently working on something cool;
 
+- 🥇 I´m de CEO of www.lanakea.com
+
+-  🥈 I´m the Tech Lead on www.nextgo.io
+
 - 🎓 I´m currently learning: 
      - Python Basic to Advanced Level
      - Machine Learning
@@ -20,7 +24,28 @@ Talking about Personal Stuffs:
 
 📚 I also love reading books on financial literacy and trading . My favorite ones are "La Psicología del Trading" by Brett Steenbarger and "Comprender los productos derivados" by Oscar Elvira both in the genre of financial literacy.
 
-✈️ I love traveling too. I was Mountain Guide in Venezuela and arrive
+✈️ I love traveling too. I was Mountain Guide in Venezuela and arrive.
+
+## 🛠️ Skills
+
+Languages
+
+![github](https://img.shields.io/badge/Html5-critical?style=for-the-badge&logo=Html5&logoColor=white) 
+![github](https://img.shields.io/badge/Css3-blue?style=for-the-badge&logo=Css3&logoColor=white)
+![github](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=white)
+![github](https://img.shields.io/badge/Csharp-success?style=for-the-badge&logo=Csharp&logoColor=white)
+![github](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white)
+![github](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white)
+![github](https://img.shields.io/badge/Php-blueviolet?style=for-the-badge&logo=Php&logoColor=white)
+![github](https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=Go&logoColor=white)
+![github](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white)
+![github](https://img.shields.io/badge/Bootstrap-blueviolet?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white)
+![github](https://img.shields.io/badge/Aws-critical?style=for-the-badge&logo=Aws&logoColor=white)
+![github](https://img.shields.io/badge/Firebase-blue?style=for-the-badge&logo=Firebase&logoColor=white)
+![github](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white)
+![github](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white)
+![github](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white)
 
 <!--
 **eduardoweb/eduardoweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
