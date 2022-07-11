@@ -47,6 +47,9 @@ Languages and Technologies
 ![github](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)
 ![github](https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=Mysql&logoColor=white)
 ![github](https://img.shields.io/badge/Sqlserver-yellow?style=for-the-badge&logo=Sqlserver&logoColor=white)
+![github](https://img.shields.io/badge/.Net-blueviolet?style=for-the-badge&logo=.Net&logoColor=white)
+![github](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=Solidity&logoColor=white)
+![github](https://img.shields.io/badge/Blockchain-yellowfreen?style=for-the-badge&logo=Blockchain&logoColor=white)
 
 <!--
 **eduardoweb/eduardoweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
