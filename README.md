@@ -9,9 +9,9 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 Talking about Personal Stuffs:
 
-<table border="0">
-     <tr border="0">
-          <td border="0">
+<table>
+     <tr>
+          <td>
  - 👨‍💻 I’m currently working on something cool; 
 
 - 🥇 I´m de CEO of www.lanakea.com
