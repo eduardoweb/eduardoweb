@@ -70,9 +70,9 @@ Backend as a Service (BaaS)
 
 Databases
 
-![github](https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=Mysql&logoColor=white)
 ![github](https://img.shields.io/badge/Sqlserver-yellow?style=for-the-badge&logo=Sqlserver&logoColor=white)
-![github](https://img.shields.io/badge/Mongodb-yellowfreen?style=for-the-badge&logo=Mongodb&logoColor=white)
+![github](https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=Mysql&logoColor=white)
+![github](https://img.shields.io/badge/Mongodb-yellowgreen?style=for-the-badge&logo=Mongodb&logoColor=white)
 
 Block-Chain Development
 
