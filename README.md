@@ -51,8 +51,8 @@ Front-End Development
 Backend as a Service (BaaS)
 
 ![github](https://img.shields.io/badge/Firebase-blue?style=for-the-badge&logo=Firebase&logoColor=yellow)
-![github](https://img.shields.io/badge/Apache-red?style=for-the-badge&logo=Apache&logoColor=white)
 ![github](https://img.shields.io/badge/Aws-critical?style=for-the-badge&logo=Aws&logoColor=white)
+![github](https://img.shields.io/badge/Heroku-blueviolet?style=for-the-badge&logo=Heroku&logoColor=white)
 
 
 Databases
@@ -61,15 +61,16 @@ Databases
 ![github](https://img.shields.io/badge/Sqlserver-yellow?style=for-the-badge&logo=Sqlserver&logoColor=white)
 ![github](https://img.shields.io/badge/Mongodb-yellowfreen?style=for-the-badge&logo=Mongodb&logoColor=white)
 
-
-![github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white)
-
-
-![github](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)
-
+Block-Chain Development
 
 ![github](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=Solidity&logoColor=white)
-![github](https://img.shields.io/badge/Blockchain-yellowfreen?style=for-the-badge&logo=Blockchain&logoColor=white)
+![github](https://img.shields.io/badge/web3-critical?style=for-the-badge&logo=web3&logoColor=white)
+
+Technologies
+
+![github](https://img.shields.io/badge/Apache-red?style=for-the-badge&logo=Apache&logoColor=white)
+![github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white)
+![github](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)
 
 <!--
 **eduardoweb/eduardoweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
