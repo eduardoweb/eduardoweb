@@ -28,7 +28,7 @@ Talking about Personal Stuffs:
 
 ## 🛠️ Skills
 
-Languages
+Languages and Technologies
 
 ![github](https://img.shields.io/badge/Html5-critical?style=for-the-badge&logo=Html5&logoColor=white) 
 ![github](https://img.shields.io/badge/Css3-blue?style=for-the-badge&logo=Css3&logoColor=white)
@@ -43,9 +43,10 @@ Languages
 ![github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white)
 ![github](https://img.shields.io/badge/Aws-critical?style=for-the-badge&logo=Aws&logoColor=white)
 ![github](https://img.shields.io/badge/Firebase-blue?style=for-the-badge&logo=Firebase&logoColor=white)
-![github](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white)
-![github](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white)
-![github](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white)
+![github](https://img.shields.io/badge/Apache-red?style=for-the-badge&logo=Red&logoColor=white)
+![github](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)
+![github](https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=Mysql&logoColor=white)
+![github](https://img.shields.io/badge/Sqlserver-yellow?style=for-the-badge&logo=Sqlserver&logoColor=white)
 
 <!--
 **eduardoweb/eduardoweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
