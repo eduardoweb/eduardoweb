@@ -41,6 +41,10 @@ Talking about Personal Stuffs:
 
 ## 🛠️ Skills
 
+Accreditations
+
+![aws-partner-accreditation-technical_150](https://user-images.githubusercontent.com/9677961/183256465-5d7bbb6c-5cb4-49b8-9901-eb3ea9820adc.png)
+
 Languages
 
 ![github](https://img.shields.io/badge/Csharp-success?style=for-the-badge&logo=Csharp&logoColor=white)
