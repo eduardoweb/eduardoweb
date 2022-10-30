@@ -14,9 +14,7 @@ Talking about Personal Stuffs:
           <td>
  - 👨‍💻 I’m currently working on something cool; 
 
-- 🥇 I´m de CEO of www.lanakea.com
-
--  🥈 I´m the Tech Lead on www.nextgo.io
+- 🥇 I´m the Services Delivery Manager - IT in NextGo on www.nextgo.io
 
 - 🎓 I´m currently learning: 
      - Python Basic to Advanced Level
